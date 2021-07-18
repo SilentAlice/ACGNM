@@ -1,214 +1,71 @@
-恶魔高校DxD/ハイスクールD×D-TNK/passione
-恶魔高校D×D NEW/ハイスクールD×D NEW-TNK
-恶魔高校D×D BorN/ハイスクールD×D BorN-TNK
-恶魔高校D×D HERO/ハイスクールD×D HERO-TNK
-
-PSYCHO-PASS 心理测量者 3 FIRST INSPECTOR/PSYCHO-PASS サイコパス 3 FIRST INSPECTOR-Production I.G
-达尔文游戏/ダーウィンズゲーム/Darwin's Game-Nexus
-ID: Invalid/异度侵入-NAZ
-ペット/思维覆写/pet-GENO STUDIO
-Magia Record 魔法少女小圆外传/魔法纪录 魔法少女小圆外传/マギアレコード 魔法少女まどか☆マギカ外伝-SHAFT
-索玛丽与森林之神/ソマリと森の神様-SATELIGHT
-理科生坠入情网，故尝试证明/理系が恋に落ちたので証明してみた。/Science Fell in Love, So I Tried to Prove It-ZERO-G
-某科学的超电磁炮T/とある科学の超電磁砲T-J.C.STAFF
-22/7/ナナブンノニジュウニ-A-1 Pictures
-RWBY 7
-虚构推理/虚構推理-Brain's Base
-异种族风俗娘评鉴指南/異種族レビュアーズ-Passione
-ランウェイで笑って/请在伸展台上微笑/请在T台上微笑-Ezo'la
-痛いのは嫌なので防御力に極振りしたいと思います。/因为太怕痛就全点防御力了。-SILVER LINK.
-掠夺者/プランダラ/PLUNDERER-GEEKTOYS
-地縛少年花子くん/地缚少年花子君/Toilet-Bound Hanako-kun-Lerche
-邪神ちゃんドロップキック/邪神与厨二病少女-Nomad
-
-
-转生成为了只有乙女游戏破灭Flag的邪恶大小姐.../乙女ゲームの破滅フラグしかない悪役令嬢に転生してしまった.../转生恶役只好拔除破灭旗标-SILVER LINK.
-爱书的下克上：为了成为图书管理员不择手段！ 2/本好きの下剋上~司书になるためには手段を选んでいられません~ 2-亚细亚堂
-昨日之歌/イエスタデイをうたって-动画工房
-隐瞒之事/かくしごと-亚细亚堂
-八男？別鬧了！/八男って、それはないでしょう！/八男？别闹了！-SHIN-EI动画/SynergySP
-神之塔/Tower of God-Telecom Animation Film
-公主连结！Re:Dive/プリンセスコネクト！Re:Dive/超异域公主连结☆Re:Dive-CygamesPictures
-辉夜大小姐想让我告白～天才们的恋爱头脑战～ 2/かぐや様は告らせたい～天才たちの恋愛頭脳戦～ 2-A-1 Pictures
-格莱普尼尔/グレイプニル/GLEIPNIR/被束缚的芬尼尔-PINE JAM
-攻壳机动队：SAC_2045/攻殻機動隊 SAC_2045-Production I.G/SOLA DIGITAL ARTS
-
-
-やはり俺の青春ラブコメはまちがっている。完/我的青春恋爱物语果然有问题。完-feel.
-Re：从零开始的异世界生活Ⅱ/Re:ゼロから始める異世界生活Ⅱ/Re: life in a different world from scratchⅡ-WHITE FOX
-科学超电磁炮T/とある科学の超電磁砲T-J.C.STAFF
-富豪刑警 Balance:UNLIMITED/富豪刑事 Balance:UNLIMITED-CloverWorks
-魔王学院的不适任者～史上最强的魔王始祖，转生就读子孙们的学校～/魔王学院の不適合者～史上最強の魔王の始祖、転生して子孫たちの学校へ通う～-SILVER LINK.
-彼得·格里尔的贤者时间/ピーター・グリルと賢者の時間-WolfsBane
-モンスター娘のお医者さん/魔物娘的医生/Monster Girl Doctor-ARVO ANIMATION
-ド級編隊エグゼロス/弩级战队H×EROS-project No.9
-宇崎学妹想要玩！/宇崎ちゃんは遊びたい！-ENGI
-没落要塞/DECA-DENCE/デカダンス-NUT
-갓 오브 하이스쿨/The God of High School/高校之神-MAPPA
-GREAT PRETENDER/大欺诈师-WIT STUDIO
-恋とプロデューサー～EVOL×LOVE～/恋与制作人-MAPPA
-租借女友/彼女、お借りします-TMS Entertainment
-猎魔武士/GIBIATE-ランチ·BOX
-Lapis Re:LiGHTs/宝石幻想光芒重现-横滨动画研究所
-
-
-被众神捡到的男孩/神達に拾われた男-MAHO FILM
-你与我最后的战场，亦或是世界起始的圣战/キミと僕の最後の戦場、あるいは世界が始/Our Last Crusade or the Rise of a New World-SILVER LINK.
-魔女之旅/魔女の旅々-C2C
-无能力者娜娜/无能的奈奈/無能なナナ-Bridge
-大贵族/노블레스/NOBLESSE -ノブレス--Production I.G
-攀岩少女/いわかける！ -Sport Climbing Girls--BLADE
-我立于百万生命之上/100万の命の上に俺は立っている/I'M STANDING ON A MILLION LIVES-MAHO FILM
-在魔王城说晚安/魔王城でおやすみ-动画工房
-总之就是非常可爱/トニカクカワイイ-Seven Arcs
-成神之日/神様になった日/成为神的那天/KamisamaDAY-P.A.WORKS
-咒术回战/呪術廻戦/Jujutsu Kaisen-MAPPA
+好比是最终迷宫前的少年到新手村生活一般的故事/たとえばラストダンジョン前の村の少年が序盤の街で暮らすような物語-LIDENFILMS
+关于我转生变成史莱姆这件事/転生したらスライムだった件 2-8bit
+无职转生：到了异世界就拿出真本事/無職転生～異世界行ったら本気だす～/Jobless Reincarnation-Studio Bind
+弱势角色友崎君/弱势角色友崎同学/弱キャラ友崎くん-project No.9
+动物狂想曲/BEASTARS 2-Orange
+堀与宫村/ホリミヤ-CloverWorks
+只有我进入的隐藏地下城/俺だけ入れる隠しダンジョン/The Hidden Dungeon Only I Can Enter-Okuruto Noboru
+工作细胞！！/はたらく細胞!!-david production
+工作细胞BLACK/はたらく細胞BLACK/Cells at Work! Code Black-LIDENFILMS
+我是蜘蛛又怎样？/转生成蜘蛛又怎样！/蜘蛛ですが、なにか？-Millepensee
+约定的梦幻岛/約束のネバーランド 2-CloverWorks
+地味变！！～改变土妹子的纯洁异性交往～/じみへんっ!!～地味子を変えちゃう純異性交遊～-studio HoKIBOSHI
 
 
 
 
-在地下城寻求邂逅是否搞错了什么/ダンジョンに出会いを求めるのは間違っているだろうか 123-J.C.STAFF
-为美好的世界献上祝福!/この素晴らしい世界に祝福を！-Studio DEEN
-爱书的下克上：为了成为图书管理员不择手段！/本好きの下剋上~司书になるためには手段を选んでいられません~-亚细亚堂
-Code Geass 复活的鲁路修/コードギアス 復活のルルーシュ-SUNRISE
-对魔导学园35实验小队/対魔導学園35試験小隊-SILVER LINK.
-尤利西斯：贞德与炼金的骑k士/ユリシーズ ジャンヌ・ダルクと錬金の騎士-AXsiZ
-アクセル・ワールド/加速世界/Accel World-Sunrise
-
-
-杀戮天使/殺戮の天使/X的天使/Angels of Death-J.C.STAFF
-穿透幻影的太阳/幻影ヲ駆ケル太陽/il sole penetra le illusioni/Day Break Illusion-AIC
-乒乓/ピンポン THE ANIMATION-龙之子工作室
-喜欢本大爷的竟然就你一个？/俺を好きなのはお前だけかよ-CONNECT
-厨神小当家/真・中華一番！/中华小当家-Production I.G，NAS
-我，不是说了能力要平均值么！/私、能力は平均値でって言ったよね！-project No.9
-刀剑神域 异界战争/刀剑神域 Alicization War of Underworld/ソードアート・オンライン アリシゼーション War of Underworld-A-1 Pictures
-超人高中生们即便在异世界也能从容生存！/超人高校生たちは異世界でも余裕で生き抜くようです!/High School Prodigies Have It Easy Even In Another World!-project No.9
-慎重勇者～这个勇者明明超强却过分慎重～/慎重勇者～この勇者が俺TUEEEくせに慎重すぎる～-WHITE FOX
-我们无法一起学习 2/ぼくたちは勉強ができない 2-st Silver，ARVO ANIMATION
-心理测量者/PSYCHO-PASS/サイコパス 3-Production I.G
-食戟之灵：神之皿/食戟のソーマ 神ノ皿-J.C.STAFF
-BEASTARS/动物狂想曲-Orange
-灵笼：INCARNATION，INCARNATION-艺画开天
-碧蓝航线/アズールレーン/Azur Lane-Bibury Animation Studio
-石纪元/ドクターストーン/Dr.STONE-TMS Entertainment
-某科学的一方通行/とある科学の一方通行-J.C.STAFF
-街角魔族/まちカドまぞく-J.C.STAFF
-骚动时节的少女们啊。/荒ぶる季節の乙女どもよ。-Lay-duce
-女子高生の無駄づかい/女高中生的虚度日常-Passione
-重来吧、魔王大人/魔王様、リトライ！-EKACHI EPILKA
-流汗吧！健身少女/ダンベル何キロ持てる？/肌肉少女：哑铃，能举多少公斤？-动画工房
-续·终物语/続・終物語/ゾク・オワリモノガタリ-SHAFT
-狂赌之渊×x/賭ケグルイ××-MAPPA
-贤者之孙/賢者の孫/Wise Man's Grandchild-SILVER LINK.
-鬼灭之刃/鬼滅の刃-ufotable
-我们无法一起学习/ぼくたちは勉強ができない-st Silver，ARVO ANIMATION
-约定的梦幻岛/約束のネバーランド/The Promised Neverland-CloverWorks
-约会大作战/デート·ア·ライブ/DATE A LIVE 3-AIC PLUS+
-辉夜大小姐想让我告白～天才们的恋爱头脑战～/かぐや様は告らせたい～天才たちの恋愛頭脳戦～-A-1 Pictures
-五等分的新娘/五等分の花嫁-手冢Production
-烟草/ケムリクサ-YAOYOROZU
-不吉波普不笑/ブギーポップは笑わない-Madhouse
-魔法禁书目录/とある魔術の禁書目録 3-J.C.STAFF
-W'z/ウィズ-Go Hands
-环战公主/サークレット・プリンセス/Circlet Princess-SILVER LINK.
-爱，死亡和机器人/Love, Death & Robots-Netfix
-邻家索菲/隔壁的吸血鬼美眉/となりの吸血鬼さん-Studio 五组/AXsiZ
-龙王的工作！/りゅうおうのおしごと！-Project No.9
-ダーリン・イン・ザ・フランキス/DARLING in the FRANXX-TRIGGER/A-1 Pictures
-デスマーチからはじまる異世界狂想曲/爆肝工程师的异世界狂想曲-SILVER LINK./CONNECT
-刻刻-GENO Studio
-オーバーロード/OVERLOAD/不死者之王 2-MADHOUSE
-我的三体 逻辑传/the Three-body problem in MC-神游八方
-斉木楠雄のΨ難/超能力者齐木楠雄的灾难 2-EGG FIRM/J.C.STAFF
-citrus~柑橘味香氣~ /サブロウタ-Passione
-七つの美徳/七美德-Bridge
-ヴァイオレット・エヴァーガーデン/紫罗兰永恒花园/Violet Evergarden-京都动画
-宇宙よりも遠い場所/比宇宙更远的地方-MADHOUSE
-原书·原书使/メルヘン・メドヘン-Hoods Entertainment
-ラーメン大好き小泉さん/爱吃拉面的小泉同学-Studio五组/AXsiZ
-衛宮さんちの今日のごはん/卫宫家今天的饭-ufotable
-Fate/EXTRA Last Encore/フェイト／エクストラ ラストアンコール/命运之夜:新章-最终回响-SHAFT
-独蛾 ～动画～-ピンクパイナップル
-たくのみ。/宅饮。-Production IMS
-魔法少女アイ/まほうしょうじょアイ/Magical girl Ai-colors(カラーズ)
-殻ノ少女/壳之少女 12-Innocent Grey/Milky
-Persona 5/女神异闻录5/ペルソナ5-A-1 Pictures
-Comic Girls/こみっくがーるず-Nexus
-命运石之门 0/シュタインズ・ゲート ゼロ/Steins;Gate 0-WHITE FOX
-赛马娘 Pretty Derby/ウマ娘 プリティーダービー-P.A.WORKS
-MEGALO BOX/メガロボクス-TMS Entertainment
-B：彼之初/B: The Beginning-Production I.G
-奴隷区 The Animation/奴隶区-ZERO-G/TNK
-魔法少女 俺/老子是魔法少女-pierrot plus
-A.l.I.C.O. Incarnation-BONES
-ありすorありす/Alice or Alice-EMT Squared
-吹响吧！上低音号2/響け！ユーフォニアム2-京都动画
-ヲタクに恋は難しい/宅男腐女恋爱真难-A-1 Pictures
-多田くんは恋をしない/多田君不恋爱-动画工房
-ヒナまつり/黑社会的超能力女儿-feel.
-魔法少女サイト/魔法少女网站-production dóA
-实验品家庭/実験品家族 -クリーチャーズ・ファミリー・デイズ--大火鸟动画
-刀剑神域外传 Gun Gale Online/ソードアート・オンライン オルタナティブ ガンゲイル・オンライン/Sword Art Online Alternative Gun Gale Online-Studio 3Hz
-こみっくがーるず/Comic Girls-Nexus
-PERSONA5 the Animation/女神异闻录5-CloverWorks
-食戟のソーマ 餐ノ皿/食戟之灵：餐之皿-J.C.STAFF
-オーバーロード/OVERLOAD/不死者之王 3-MADHOUSE
-邪神ちゃんドロップキック/邪神与厨二病少女-nomad
-少女☆歌剧 Revue Starlight/少女☆歌劇 レヴュースタァライト-KINEMA CITRUS
-はたらく細胞/工作细胞-david production
-ちおちゃんの通学路/千绪的上学路/Chio's School Road-Diomedéa
-One Room-ZERO-G
-Back Street Girls －ゴクドルズ－/后街女孩 －极道少女－-J.C.STAFF
-ぐらんぶる/Grand Blue/碧蓝之海-ZERO G
-HOW NOT TO SUMMON A DEMON LORD/異世界魔王と召喚少女の奴隷魔術/异世界魔王与召唤少女的奴隶魔术-亚细亚堂
-はたらく細胞/工作细胞-david production
-终将成为你/やがて君になる-TROYCA
-关于我转生变成史莱姆这档事/転生したらスライムだった件/That Time I Got Reincarnated as a Slime-8bit
-東京喰種：re/东京喰种：Re/Tokyo Ghoul:re-Studio Pierrot
-魔法禁书目录/とある魔術の禁書目録 12-J.C.STAFF
-魔法禁书目录:恩底弥翁的奇迹/とある魔術の禁書目録:エンデュミオンの奇蹟-J.C.STAFF
-刀剑神域 Alicization/ソードアート·オンライン アリシゼーション-A-1 Pictures
-青春猪头少年不会梦到兔女郎学姐/青春ブタ野郎はバニーガール先輩の夢を見ない-CloverWorks
-07Ghost/神幻拍档
+07-GHOST～神幻拍档～/07-GHOST-Studio DEEN
 15美少女漂流记/十五美少女漂流記 OVA-ティーレックス
+22/7/ナナブンノニジュウニ-A-1 Pictures
 91 Days/ナインティワンデイズ-朱夏
+A.I.C.O. Incarnation-BONES
 Active Raid 机动强袭室第八组/アクティヴレイド -機動強襲室第八係--Production IMS
-Aldnoah.Zero 1 2
-Angel Beats
+Aldnoah.Zero/アルドノア・ゼロ 1 2-TROYCA/A-1 Pictures
+Angel Beats-P.A.WORKS
 Anne Happy/Unhappy/あんハピ♪ -Silver Link
 Another
 ARAGOTO/野良神
+B：彼之初/B: The Beginning-Production I.G
 BabyPrincess
+Back Street Girls －ゴクドルズ－/后街女孩 －极道少女－-J.C.STAFF
+BEASTARS/动物狂想曲-Orange
+Blood+
 BLOOD-C
 BLOOD-C The Last Dark-Produciton I.G
-Blood+
 BonG Dream!/バンドリ！-ISSEN, XEBEC
 BTOOOM!/惊爆游戏
 Canaan/迦南
 Chaos;Head/混沌之脑
 Charlotte/夏洛特
+citrus~柑橘味香氣~ /サブロウタ-Passione
 Clannad Story/团子大家族 1
 Code Breaker/法外制裁者
 Code Geass 亡国的阿基德 12345
 Code Geass 叛逆的鲁鲁修/コードギアス 反逆のルルーシュ/CODE GEASS Lelouch of the Rebellion 1 R2-Sunrise
+Code Geass 复活的鲁路修/コードギアス 復活のルルーシュ-SUNRISE
+Comic Girls/こみっくがーるず-Nexus
 C钱·未来式
 Date a Live
 Dimension W~维度战记~/ディメンション　W-Studio 3Hz, ORANGE
 Dog Days12
 EVA TV、破、Q
 Fate/Aprocrypha/フェイト/アポクリファ-A-1 Pictures
+Fate/EXTRA Last Encore/フェイト／エクストラ ラストアンコール/命运之夜:新章-最终回响-SHAFT
 Fate/kaleid liner プリズマ☆イリヤ ドライ3rei!!/魔法少女☆伊莉雅 3rei!!-SILVER LINK
 Fate/Stay Night TV UBW Unlimited Blade Works
 Fate/zero
 GANGSTA/黑街
 Ghost In The Shell/攻壳机动队12 2.0 Arise123
 GOSICK -ゴシック-BONES
+GREAT PRETENDER/大欺诈师-WIT STUDIO
 H2O
 Happy Tree Friends
+HOW NOT TO SUMMON A DEMON LORD/異世界魔王と召喚少女の奴隷魔術/异世界魔王与召唤少女的奴隶魔术-亚细亚堂
+ID: Invalid/异度侵入-NAZ
 Just Because!-PINE JAM
 K 1 Missing Kings
 K Ruturn of Kings-GoHands
+Lapis Re:LiGHTs/宝石幻想光芒重现-横滨动画研究所
 Little Busters!
 Love Stage
 LoveLive!/学园偶像祭/School idol festival/ラブライブ!スクールアイドルフェスティバル 12 Movie
@@ -216,25 +73,34 @@ LoveLive!Sunshine!! 12-Sunrise/日升
 Lovely X Cation the animation-ティーレックス
 Luck&Logic/幸运逻辑-动画工房
 Madlax
+Magia Record 魔法少女小圆外传/魔法纪录 魔法少女小圆外传/マギアレコード 魔法少女まどか☆マギカ外伝-SHAFT
+MEGALO BOX/メガロボクス-TMS Entertainment
 Mnemosyne －ムネモシュネの娘たち－/记忆女神的女儿们
 Muv-Luv Alternative Total Eclipse
 Myriad Colors Phantom World/無彩限のファントム・ワールド/无限彩的怪灵世界-京都动画
 NANA -ナナ-/世界上的另一个我-MADHOUSE
-NEW GAME!/ニューゲーム! 2-动画工房
-NEW GAME!/ニューゲーム! OVA-动画工房
+NEW GAME!/ニューゲーム! 2 OVA-动画工房
 Noir/黑街二人组
+One Room-ZERO-G
 OVERLORD/不死者之王
+Persona 5/女神异闻录5/ペルソナ5-A-1 Pictures
+PERSONA5 the Animation/女神异闻录5-CloverWorks
 Phantom
 planetarian～ちいさなほしのゆめ～/星之梦-David Production
+PSYCHO-PASS 心理测量者 3 FIRST INSPECTOR/PSYCHO-PASS サイコパス 3 FIRST INSPECTOR-Production I.G
+PSYCHO-PASS 心理测量者/PSYCHO-PASS サイコパス 1-Production I.G
+PSYCHO-PASS 心理测量者/PSYCHO-PASS サイコパス 2-竜の子プロダクション
 QEALIDEA CODE/クオリディア・コード/心灵代码-A-1 Pictures
 R-15
 RDG濒危物种少女
 Re:CREATORS-TROYCA
 Ｒｅ：ゼロから始める異世界生活/Re:从零开始的异世界生活/Re:Life in a different world from zero-White Fox
+Re：从零开始的异世界生活Ⅱ/Re:ゼロから始める異世界生活Ⅱ/Re: life in a different world from scratchⅡ-WHITE FOX
 Rewrite/りらりと-8bit
 Rio-Rainbow Gate
 ROBOTICS;NOTES/机器人笔记
 RWBY 123456
+RWBY 7
 S.A特优生
 School Days
 sin 七つの大罪/Sin: The 7 Deadly Sins/Sin 七大罪-TNK/ARTLAND
@@ -252,25 +118,50 @@ Urara迷路帖/うらら迷路帖-J.C.STAFF
 ViVid Strike!-Seven Arcs Pictures
 Wake up, Girls
 WWW.Working!!/WWW.迷糊餐厅-A-1 Pictures
+W'z/ウィズ-Go Hands
 xxxholic TV 继 春梦记 笼 仲夏夜之梦
 あきそら/秋色之空OVA
+アクセル・ワールド/加速世界/Accel World-Sunrise
+ありすorありす/Alice or Alice-EMT Squared
+ヴァイオレット・エヴァーガーデン/紫罗兰永恒花园/Violet Evergarden-京都动画
+オーバーロード/OVERLOAD/不死者之王 2-MADHOUSE
+オーバーロード/OVERLOAD/不死者之王 3-MADHOUSE
 おくさまが生徒会長!/我老婆是学生会长！
 ガーリッシュナンバー/girlish number/少女编号-diomedéa
+ぐらんぶる/Grand Blue/碧蓝之海-ZERO G
 この美術部には問題がある!/这个美术部有问题!-feel
+こみっくがーるず/Comic Girls-Nexus
 ジョーカー・ゲーム/Joker Game/代号D机关-Production I.G
 それが声優！/那就是声优！
+ダーリン・イン・ザ・フランキス/DARLING in the FRANXX-TRIGGER/A-1 Pictures
 だがしかし/粗点心战争-feel
+たくのみ。/宅饮。-Production IMS
+ちおちゃんの通学路/千绪的上学路/Chio's School Road-Diomedéa
 ツキウタ/月歌-Pierrot
 ディバインゲート/Divine Gate/神圣之门-Studio Pierrot
+デスマーチからはじまる異世界狂想曲/爆肝工程师的异世界狂想曲-SILVER LINK./CONNECT
 デュラララ!!×2 結/无头骑士异闻录x2 结
+ド級編隊エグゼロス/弩级战队H×EROS-project No.9
+はたらく細胞/工作细胞-david production
+はたらく細胞/工作细胞-david production
 ハンドシェイカー/Hand Shakers-GoHands/Frontier Works/KADOKAWA
+ヒナまつり/黑社会的超能力女儿-feel.
+ペット/思维覆写/pet-GENO STUDIO
 ミカグラ学园组曲/御神乐学园组曲
+モンスター娘のお医者さん/魔物娘的医生/Monster Girl Doctor-ARVO ANIMATION
+やはり俺の青春ラブコメはまちがっている。完/我的青春恋爱物语果然有问题。完-feel.
 やはり俺の青春ラブコメは間違っている/我的青春恋爱物语果然有问题 12
 ヤミと帽子と本の旅人
+ラーメン大好き小泉さん/爱吃拉面的小泉同学-Studio五组/AXsiZ
+ランウェイで笑って/请在伸展台上微笑/请在T台上微笑-Ezo'la
 ろんぐらいだぁす！/LONGRIDERS!/长骑美眉-Actas
+ヲタクに恋は難しい/宅男腐女恋爱真难-A-1 Pictures
+갓 오브 하이스쿨/The God of High School/高校之神-MAPPA
 一课一练/CHEATING CRAFT/チーティングクラフト/作弊艺术-BLADE
+七つの美徳/七美德-Bridge
 三人行必有我妹
 下ネタという概念が存在しない退屈な世界/没有黄段子的无聊世界
+不吉波普不笑/ブギーポップは笑わない-Madhouse
 不正经的魔术讲师与禁忌教典/ロクでなし魔術講師と禁忌教典-LIDENFILMS
 世界黑暗图鉴/世界の闇図鑑-ILCA
 东京地震8.0
@@ -280,8 +171,11 @@ xxxholic TV 继 春梦记 笼 仲夏夜之梦
 中二病也要谈恋爱12
 中华小当家
 丹特丽安的书架
+为美好的世界献上祝福!/この素晴らしい世界に祝福を！-Studio DEEN
 乃木坂春香的秘密
+乒乓/ピンポン THE ANIMATION-龙之子工作室
 乱步奇谭/Game of Laplace
+五等分的新娘/五等分の花嫁-手冢Production
 亚人酱有话要说/亜人ちゃんは語りたい-A-1 Pictures
 亡灵幻境
 亲吻姐姐/Kissxsis
@@ -290,6 +184,7 @@ xxxholic TV 继 春梦记 笼 仲夏夜之梦
 从零开始的魔法书/ゼロから始める魔法の書-WHITE FOX
 伪恋
 伪物语
+你与我最后的战场，亦或是世界起始的圣战/キミと僕の最後の戦場、あるいは世界が始/Our Last Crusade or the Rise of a New World-SILVER LINK.
 侧车搭档/つうかあ-SILVER LINK.
 信蜂12
 僕だけがいない町/只有我不在的街道-A-1 Pictures
@@ -298,12 +193,14 @@ xxxholic TV 继 春梦记 笼 仲夏夜之梦
 全职猎人
 全职高手-视美经典
 全部成为F
+八男？別鬧了！/八男って、それはないでしょう！/八男？别闹了！-SHIN-EI动画/SynergySP
 公主准则/妹子×特工!/Princess Principal-2D
 公主恋人/Princess Lover TV OVA
+公主连结！Re:Dive/プリンセスコネクト！Re:Dive/超异域公主连结☆Re:Dive-CygamesPictures
 六花的勇者
 关于完全听不懂老公在说什么的事/旦那が何を言っているかわからない件 12
 关于我女友是个一本正经的碧池这件事/僕の彼女がマジメ過ぎる処女ビッチな件/My girlfriend is faithful virgin bitch-diomedéa/Studio Blanc
-最弱無敗の神装機龍「バハムート」/最弱无败神装机龙《巴哈姆特》/Undefeated Bahamut Chronicle-Lerche
+关于我转生变成史莱姆这档事/転生したらスライムだった件/That Time I Got Reincarnated as a Slime-8bit
 军火女王12
 冰上的尤里/YURI!!! on ICE/ユーリ!!! on ICE-MAPPA
 冰菓/冰果
@@ -311,12 +208,19 @@ xxxholic TV 继 春梦记 笼 仲夏夜之梦
 凉宫春日的忧郁、消失
 凉风
 凪のあすから/来自风平浪静的明天
+刀剑神域 Alicization/ソードアート·オンライン アリシゼーション-A-1 Pictures
+刀剑神域 异界战争/刀剑神域 Alicization War of Underworld/ソードアート・オンライン アリシゼーション War of Underworld-A-1 Pictures
 刀剑神域/Sword Art Online 1 Extra 2
+刀剑神域外传 Gun Gale Online/ソードアート・オンライン オルタナティブ ガンゲイル・オンライン/Sword Art Online Alternative Gun Gale Online-Studio 3Hz
 初音岛D.C.
+别对影像研出手！/映像研には手を出すな！-Science SARU
+刻刻-GENO Studio
 剑灵
 动漫嘉年华1234
 十二大战/十二大戦-Graphinica
 历物语/暦物語-SHAFT
+原书·原书使/メルヘン・メドヘン-Hoods Entertainment
+厨神小当家/真・中華一番！/中华小当家-Production I.G，NAS
 双星之阴阳师/双星の陰陽師-Studio Pierrot
 变态王子与不笑猫
 只有神知道的世界123OVA23
@@ -326,29 +230,40 @@ xxxholic TV 继 春梦记 笼 仲夏夜之梦
 吸血鬼同盟
 吸血鬼骑士
 吹响吧！上低音号/響け！ユーフォニアム 12 OVA1
+吹响吧！上低音号2/響け！ユーフォニアム2-京都动画
 周一的丰饶/月曜日のたわわ-PINE JAM
-命运－冠位指定/Fate/Grand Order -First Order-/FGO-Lay-duce
 命运九重奏/NORN9-KINEMA CITRUS, ORANGE
+命运－冠位指定/Fate/Grand Order -First Order-/FGO-Lay-duce
+命运石之门 0/シュタインズ・ゲート ゼロ/Steins;Gate 0-WHITE FOX
+咒术回战/呪術廻戦/Jujutsu Kaisen-MAPPA
 品酒要在成为夫妻后/お酒は夫婦になってから-Creators in Pack
+喜欢本大爷的竟然就你一个？/俺を好きなのはお前だけかよ-CONNECT
 噬魂师
 四月是你的谎言 OVA
 国王游戏/王様ゲーム The Animation-Seven
 圣剑士的禁咒咏唱
 圣母在上1-4
 圣诞之吻ss plus
+在地下城寻求邂逅是否搞错了什么/ダンジョンに出会いを求めるのは間違っているだろうか 123-J.C.STAFF
+在魔王城说晚安/魔王城でおやすみ-动画工房
 地狱之歌/皇家国教骑士团/Hellsing OVA
 地狱少女 一道
+地縛少年花子くん/地缚少年花子君/Toilet-Bound Hanako-kun-Lerche
 坂本ですが/我叫坂本我最Dio-Studio DEEN
 埃罗芒阿老师/エロマンガ先生/情色漫画老师-A-1 Pictures
 境界的彼方
 夏目友人帐1234
 夏目友人帳/夏目友人帐 5-朱夏
 夕阳染红的坡道
+多田くんは恋をしない/多田君不恋爱-动画工房
 夜勤病栋
 大图书馆的牧羊人
+大贵族/노블레스/NOBLESSE -ノブレス--Production I.G
 天才麻将少女 咲 阿知贺篇 全国篇
 天真无邪的乐园OAD
 天降之物1
+女子高生の無駄づかい/女高中生的虚度日常-Passione
+奴隷区 The Animation/奴隶区-ZERO-G/TNK
 如果折断她的旗
 如果有妹妹就好了。/妹さえいればいい。-SILVER LINK.
 妄想学生会12
@@ -356,16 +271,23 @@ xxxholic TV 继 春梦记 笼 仲夏夜之梦
 妖精的旋律/エルフェンリート/Elfen Lied-ARMS
 学园默示录/highschool of the dead-MADHOUSE
 学生会的一己之见1
+宇宙よりも遠い場所/比宇宙更远的地方-MADHOUSE
 宇宙海賊サラ
+宇崎学妹想要玩！/宇崎ちゃんは遊びたい！-ENGI
 守护甜心
 宝石之国/宝石の国-Orange
+实验品家庭/実験品家族 -クリーチャーズ・ファミリー・デイズ--大火鸟动画
 宠物小精灵1
 寄生兽
+富豪刑警 Balance:UNLIMITED/富豪刑事 Balance:UNLIMITED-CloverWorks
+对魔导学园35实验小队/対魔導学園35試験小隊-SILVER LINK.
 小林さんちのメイドラゴン/小林家的龙女仆-京都动画
+少女☆歌剧 Revue Starlight/少女☆歌劇 レヴュースタァライト-KINEMA CITRUS
 少女与战车
 少女们向荒野进发/少女たちは荒野を目指す-PRPDUCTION REED
 少女派别
 少年阴阳师
+尤利西斯：贞德与炼金的骑士/ユリシーズ ジャンヌ・ダルクと錬金の騎士-AXsiZ
 就算是哥哥只要有爱就没问题对吧
 尸鬼
 山田くんと7人の魔女/山田君与7人魔女
@@ -375,10 +297,12 @@ xxxholic TV 继 春梦记 笼 仲夏夜之梦
 幼女战记/幼女戦記-NUT
 异世界食堂/異世界食堂-SILVER LINK
 异国的十字路口
+异种族风俗娘评鉴指南/異種族レビュアーズ-Passione
+彼得·格里尔的贤者时间/ピーター・グリルと賢者の時間-WolfsBane
 徒然喜欢你/徒然Children/徒然チルドレン-Studio五组
 心灵侦探八云
-心理测量者/Psycho Pass 1-Production I.G
-心理测量者/Psycho Pass 2-竜の子プロダクション
+总之就是非常可爱/トニカクカワイイ-Seven Arcs
+恋とプロデューサー～EVOL×LOVE～/恋与制作人-MAPPA
 恋爱、选举、巧克力
 恋爱研究所/Love Lab
 恋騎士 Purely☆Kiss OVA
@@ -386,24 +310,37 @@ xxxholic TV 继 春梦记 笼 仲夏夜之梦
 恶之华
 恶魔之谜
 恶魔幸存者2
+恶魔高校D×D BorN/ハイスクールD×D BorN-TNK
+恶魔高校D×D HERO/ハイスクールD×D HERO-TNK
+恶魔高校D×D NEW/ハイスクールD×D NEW-TNK
+恶魔高校DxD/ハイスクールD×D-TNK/passione
 悠久之翼/ef - a fairy tale of the two1
 惊爆草莓
+慎重勇者～这个勇者明明超强却过分慎重～/慎重勇者～この勇者が俺TUEEEくせに慎重すぎる～-WHITE FOX
+成神之日/神様になった日/成为神的那天/KamisamaDAY-P.A.WORKS
+我，不是说了能力要平均值么！/私、能力は平均値でって言ったよね！-project No.9
 我与她的绝对领域
+我们无法一起学习/ぼくたちは勉強ができない 12-st Silver，ARVO ANIMATION
 我们没有翅膀
 我是江小白-两点十分动漫
+我的三体 逻辑传/the Three-body problem in MC-神游八方
 我的妹妹不可能这么可爱12
 我的朋友很少
 我的狐仙女友
 我的脑内恋碍选项
+我立于百万生命之上/100万の命の上に俺は立っている/I'M STANDING ON A MILLION LIVES-MAHO FILM
 打工吧魔王大人/はたらく魔王さま!-White Fox
 捏造陷阱-NTR-/捏造トラップ-NTR--Creators in Pack
+掠夺者/プランダラ/PLUNDERER-GEEKTOYS
 推理之绊
 搞姬日常
+攀岩少女/いわかける！ -Sport Climbing Girls--BLADE
+攻壳机动队：SAC_2045/攻殻機動隊 SAC_2045-Production I.G/SOLA DIGITAL ARTS
 政宗君的复仇/政宗くんのリベンジ-SILVER LINK
 散华礼弥
 数码宝贝123
 文豪野犬-BONES
-斉木楠雄のΨ難/超能力者齐木楠雄的灾难-EGG FIRM/J.C.STAFF
+斉木楠雄のΨ難/超能力者齐木楠雄的灾难 12-EGG FIRM/J.C.STAFF
 斩·赤红之瞳
 斩服少女/KILL la KILL/キルラキル-Trigger
 新网球王子
@@ -411,6 +348,7 @@ xxxholic TV 继 春梦记 笼 仲夏夜之梦
 无头骑士异闻录 2 x2转
 无头骑士异闻录/Durarara!!! 1 2
 无法逃离的背叛
+无能力者娜娜/无能的奈奈/無能なナナ-Bridge
 无论何时我们的恋情都是10厘米。/いつだって僕らの恋は10センチだった。-Lay-duce
 无赖勇者的鬼畜美学
 无限斯特拉托斯12 OVA世界清洗篇
@@ -418,7 +356,9 @@ xxxholic TV 继 春梦记 笼 仲夏夜之梦
 时空使徒/Bloodivores/ブラッディヴォーレス-Creators in Pack Ink
 时钟机关之星/クロックワーク·プラネット-XEBEC
 春＆夏推理事件簿/ハルチカ ～ハルタとチカは青春する～-P.A.WORKS
+昨日之歌/イエスタデイをうたって-动画工房
 暗杀教室
+最弱無敗の神装機龍「バハムート」/最弱无败神装机龙《巴哈姆特》/Undefeated Bahamut Chronicle-Lerche
 月がきれい/月色真美-feel.
 月刊少女野崎君
 有顶天家族
@@ -427,12 +367,17 @@ xxxholic TV 继 春梦记 笼 仲夏夜之梦
 机器人笔记
 机巧少女不会受伤
 机甲少女/Frame Arms Girl-ZEXCS/studioA-CAT
+杀戮天使/殺戮の天使/X的天使/Angels of Death-J.C.STAFF
+東京喰種：re/东京喰种：Re/Tokyo Ghoul:re-Studio Pierrot
 极黑的布伦希尔德
 枪械少女Upotte!!
 枪神-MADHOUSE
 架向星空之桥
-某科学的超电磁炮12
+某科学的一方通行/とある科学の一方通行-J.C.STAFF
+某科学的超电磁炮/とある科学の超電磁砲 12-J.C.STAFF
+某科学的超电磁炮T/とある科学の超電磁砲T-J.C.STAFF
 核爆默示录
+格莱普尼尔/グレイプニル/GLEIPNIR/被束缚的芬尼尔-PINE JAM
 梵蒂冈奇迹调查官/バチカン奇跡調査官-J.C.STAFF
 棋魂
 樱Trick
@@ -446,8 +391,11 @@ xxxholic TV 继 春梦记 笼 仲夏夜之梦
 死亡游行/Death Parade
 死亡笔记
 死后文/シゴフミ-J.C.STAFF
+殻ノ少女/壳之少女 12-Innocent Grey/Milky
 永生之酒/Baccano!-Brain's Base
+没落要塞/DECA-DENCE/デカダンス-NUT
 洁癖男子！青山君/潔癖男子！青山くん/CLEANLINESS BOY! AOYAMA KUN-云雀工作室
+流汗吧！健身少女/ダンベル何キロ持てる？/肌肉少女：哑铃，能举多少公斤？-动画工房
 浜虎2
 海猫鸣泣之时
 清恋/セイレン/SEIREN-Studio 五组/AXsiZ
@@ -461,28 +409,41 @@ xxxholic TV 继 春梦记 笼 仲夏夜之梦
 灌篮高手
 灰色的果实1
 灵感/レーカン/Re-Kan!
+灵笼：INCARNATION，INCARNATION-艺画开天
 灼熱の卓球娘/灼热的乒乓球娘-KINEMA CITRUS
 灼眼的夏娜123F
+烟草/ケムリクサ-YAOYOROZU
+爱，死亡和机器人/Love, Death & Robots-Netfix
 爱丽丝与藏六/アリスと蔵六-J.C.STAFF
+爱书的下克上：为了成为图书管理员不择手段！/本好きの下剋上~司书になるためには手段を选んでいられません~ 12-亚细亚堂
 牙狼 -VANISHING LINE-/牙狼＜GARO＞ -VANISHING LINE--MAPPA
 物语系列
 犬屋敷/いぬやしき-MAPPA
 狂欢节/Karneval/黑色嘉年华
 狂赌之渊/賭ケグルイ-MAPPA
+狂赌之渊×x/賭ケグルイ××-MAPPA
+独蛾 ～动画～-ピンクパイナップル
 狼的孩子雨和雪
+猎魔武士/GIBIATE-ランチ·BOX
 猫眼三姐妹/キャッツアイ
 王室教師ハイネ/王室教师海涅-Bridge
 玛利亚狂热12
+环战公主/サークレット・プリンセス/Circlet Princess-SILVER LINK.
 现在，妹妹的样子有点怪
 珈百璃的堕落/ガヴリールドロップアウト/Gabriel DropOut OVA-动画工房
+理科生坠入情网，故尝试证明/理系が恋に落ちたので証明してみた。/Science Fell in Love, So I Tried to Prove It-ZERO-G
 瓦尔基里/VALKYRIE DRIVE-Arms
 甲铁城的卡巴内利/甲鉄城のカバネリ-WIT STUDIO
 电器街的漫画店
 疾走王子/プリンス・オブ・ストライド　オルタナティブ/Prince of Stride Alternative-MaDhouse
+痛いのは嫌なので防御力に極振りしたいと思います。/因为太怕痛就全点防御力了。-SILVER LINK.
 白箱
 百变小樱/魔卡少女樱
 目隐都市的演绎者
+石纪元/ドクターストーン/Dr.STONE-TMS Entertainment
 石膏ボーイズ/石膏男孩-LIDENFILMS
+碧蓝航线/アズールレーン/Azur Lane-Bibury Animation Studio
+神之塔/Tower of God-Telecom Animation Film
 神无月的巫女
 神的记事本
 神隐之狼
@@ -490,26 +451,32 @@ xxxholic TV 继 春梦记 笼 仲夏夜之梦
 禁忌咒纹/Taboo Tattoo/タブー・タトゥー-J.C.STAFF
 私がモテてどうすんだ/我太受欢迎了该怎么办-Brain's Base
 秋叶原之旅/AKIBA’S TRIP-GONZO
+科学超电磁炮T/とある科学の超電磁砲T-J.C.STAFF
 秒速五厘米
+租借女友/彼女、お借りします-TMS Entertainment
 空之境界
+穿透幻影的太阳/幻影ヲ駆ケル太陽/il sole penetra le illusioni/Day Break Illusion-AIC
 竞女!!!!!!!/競女!!!!!!!!-XEBEC
 笨女孩/单蠢女孩/アホガール-Diomedéa
 笨蛋·测试·召唤兽12
 第一次的辣妹/はじめてのギャル-NAZ
 精灵使的剑舞
+索玛丽与森林之神/ソマリと森の神様-SATELIGHT
 終末のイゼッタ/终末的伊泽塔-亚细亚堂
-约会大作战/デート·ア·ライブ/DATE A LIVE 12-AIC PLUS+
+约会大作战/デート·ア·ライブ/DATE A LIVE 123-AIC PLUS+
+约定的梦幻岛/約束のネバーランド/The Promised Neverland-CloverWorks
 纯洁的玛利亚
 纯白交响曲
 线上游戏的老婆不可能是女生？/ネトゲの嫁は女の子じゃないと思った？-Project No.9
+终将成为你/やがて君になる-TROYCA
 终物语
 终物语2/オワリモノガタリ2-SHAFT
-终结的炽天使/終わりのセラフ
-终结的炽天使2
+终结的炽天使/終わりのセラフ 12
 结界师
 绝园暴风雨
 绝对双刃
 绝对可怜小孩1
+续·终物语/続・終物語/ゾク・オワリモノガタリ-SHAFT
 绯弹的亚里亚
 绯弹的亚里亚AA
 绯色的欠片12
@@ -536,28 +503,40 @@ xxxholic TV 继 春梦记 笼 仲夏夜之梦
 蔷薇少女123
 薄樱鬼异闻录
 虐杀姬/杀戮公主
+虚构推理/虚構推理-Brain's Base
 蜡笔小新
 蟲師/虫师12 铃之雨-ARTLAND
+街角魔族/まちカドまぞく-J.C.STAFF
+衛宮さんちの今日のごはん/卫宫家今天的饭-ufotable
+被众神捡到的男孩/神達に拾われた男-MAHO FILM
 裁断分离之罪恶剪刀
 裙子里面是野兽/スカートの中はケダモノでした-Magic Bus
 覆面系NOISE/覆面系ノイズ-Brain's Base
 记录的地平线/Log Horizon 12
 调教咖啡厅/ブレンド・S/Blend·S-A-1 Pictures
+贤者之孙/賢者の孫/Wise Man's Grandchild-SILVER LINK.
+赛马娘 Pretty Derby/ウマ娘 プリティーダービー-P.A.WORKS
 赤发白雪姬
 赤色的约定/命运动脉/赤之约束/FORTUNE ARTERIAL
+超人高中生们即便在异世界也能从容生存！/超人高校生たちは異世界でも余裕で生き抜くようです!/High School Prodigies Have It Easy Even In Another World!-project No.9
 超时空要塞△/マクロスΔ（デルタ）-SATELIGHT
 超时空要塞F
 超级索尼子
 超自然九人组/Occultic;Nine/-オカルティック・ナイン--A-1 Pictures
 越狱兔1234
 路人女主的养成方法/冴えない彼女（ヒロイン）の育てかた 2-A-1 Pictures
+转生成为了只有乙女游戏破灭Flag的邪恶大小姐.../乙女ゲームの破滅フラグしかない悪役令嬢に転生してしまった.../转生恶役只好拔除破灭旗标-SILVER LINK.
 轻音少女12
+辉夜大小姐想让我告白～天才们的恋爱头脑战～ 2/かぐや様は告らせたい～天才たちの恋愛頭脳戦～ 12-A-1 Pictures
+达尔文游戏/ダーウィンズゲーム/Darwin's Game-Nexus
 这就是僵尸么？12
 进击的巨人
 迷家-マヨイガ-/迷家-Diomedéa
-
 進撃の巨人/进击的巨人 2-WIT STUDIO
+邪神ちゃんドロップキック/邪神与厨二病少女-Nomad
+邻家索菲/隔壁的吸血鬼美眉/となりの吸血鬼さん-Studio 五组/AXsiZ
 邻座的怪同学
+重来吧、魔王大人/魔王様、リトライ！-EKACHI EPILKA
 野良神/流浪神差
 钢之炼金术师
 钢琴之森
@@ -566,30 +545,43 @@ xxxholic TV 继 春梦记 笼 仲夏夜之梦
 问题儿童都来自异世界
 隐之王
 隐形的孤独-林容娴
+隐瞒之事/かくしごと-亚细亚堂
 雏子的笔记/ひなこのーと-Passione
 零之使魔123F
 青春x机关枪
+青春猪头少年不会梦到兔女郎学姐/青春ブタ野郎はバニーガール先輩の夢を見ない-CloverWorks
 风之圣痕
 风夏/風夏-diomedéa
 飞轮少年
+食戟のソーマ 餐ノ皿/食戟之灵：餐之皿-J.C.STAFF
 食戟之灵/食戟のソーマ 1 2-J.C.STUFF
+食戟之灵：神之皿/食戟のソーマ 神ノ皿-J.C.STAFF
 食梦者玛利
 食灵·零
 驱影之阳
 驱魔少年
 骑士与魔法/騎士と魔法-8bit
+骚动时节的少女们啊。/荒ぶる季節の乙女どもよ。-Lay-duce
 鬼哭
+鬼灭之刃/鬼滅の刃-ufotable
 鬼父12
 魔兵传奇
 魔力家族/圣灵家族La storia della Arcana Famiglia
+魔女之旅/魔女の旅々-C2C
 魔弹之王与战姬
 魔法使的新娘/魔法使いの嫁-WIT STUDIO
+魔法少女 俺/老子是魔法少女-pierrot plus
+魔法少女アイ/まほうしょうじょアイ/Magical girl Ai-colors(カラーズ)
+魔法少女サイト/魔法少女网站-production dóA
 魔法少女伊莉雅2WEI HERZ! OVA
 魔法少女奈叶123
 魔法少女小圆TV 叛逆的物语
 魔法少女育成計画/魔法少女育成计划-Lerche
+魔法禁书目录/とある魔術の禁書目録 123-J.C.STAFF
+魔法禁书目录:恩底弥翁的奇迹/とある魔術の禁書目録:エンデュミオンの奇蹟-J.C.STAFF
 魔法科高校的劣等生
 魔王勇者
+魔王学院的不适任者～史上最强的魔王始祖，转生就读子孙们的学校～/魔王学院の不適合者～史上最強の魔王の始祖、転生して子孫たちの学校へ通う～-SILVER LINK.
 魔装学園H×H/魔装学园HxH-Production IMS
 黄昏乙女X失忆幽灵
 黑之契约者/DARKER THAN BLACK 12-BONES
@@ -600,3 +592,5 @@ xxxholic TV 继 春梦记 笼 仲夏夜之梦
 黑神
 黑色残骸/黑骸-P.A.works
 龙与虎
+龙王的工作！/りゅうおうのおしごと！-Project No.9
+
